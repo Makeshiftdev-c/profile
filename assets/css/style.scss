@@ -1,8 +1,8 @@
 ---
 ---
 
-@import "";
-img {
+@import "{{ site.theme }}";
+.wrapper header img {
   box-shadow: 0px 0px 50px white inset, 0px 0px 29px black inset, 0px 0px 6px black;
   background-color: rgba(20, 27, 27, 0.1);
   border-radius: 20px;
