@@ -1,9 +1,7 @@
-## <span class="comment">\#</span>A Little Bit About Me
+## <span class="comment">\#</span>A Little (Bit) About Me ;)
 _ _ _
 
-You can use the [editor on GitHub](https://github.com/Makeshiftdev-c/profile-example/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+01001001 00100000 01101100 01101111 01110110 01100101 00100000 01100011 01101111 01100110 01100110 01100101 01100101 00100000 01100001 01101110 01100100 00100000 01100011 01101111 01100100 01101001 01101110 01100111 00101110
 
 ## <span class="comment">\#</span>Skills
 _ _ _
