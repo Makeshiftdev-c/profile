@@ -10,3 +10,14 @@ img {
   border-bottom-right-radius: 50%;
   border: 3px solid rgba(228, 238, 228, 0);
 }
+hr {
+  margin: 0;
+  border: none;
+  height: 2px;
+  background: -webkit-gradient(linear,left top,right top,from(#ec0044),color-stop(#fffa00),color-stop(#00ff71),color-stop(#00e7ff),color-stop(#00ff71),color-stop(#fffa00),color-stop(#ec0044),color-stop(#fffa00),color-stop(#00ff71),color-stop(#00e7ff),color-stop(#00ff71),to(#fffa00));
+  background: -o-linear-gradient(left,#ec0044,#fffa00,#00ff71,#00e7ff,#00ff71,#fffa00,#ec0044,#fffa00,#00ff71,#00e7ff,#00ff71,#fffa00);
+  background: linear-gradient(90deg,#ec0044,#fffa00,#00ff71,#00e7ff,#00ff71,#fffa00,#ec0044,#fffa00,#00ff71,#00e7ff,#00ff71,#fffa00);
+  background-size: 200% 100%;
+  -webkit-animation: animated-divider 15s linear infinite;
+  animation: animated-divider 15s linear infinite;
+}
