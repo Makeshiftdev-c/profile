@@ -10,7 +10,7 @@ Since then, my efforts have been focused on gaining as much exposure to the diff
 ### <span class="comment level-3">\#</span>Skills
 _ _ _
 
-```markdown
+```javascript
 [Front-End]         [Back End]            [Source Control]          [Frameworks]          [UI/UX]  
 `JavaScript`        `REST / MongoDB`      `Git / Github`            `React / Redux`       `Gimp`
 `CSS/SCSS`          `Node.js / NPM / Yarn`                          `Semantic UI`         `Inkscape`
@@ -18,8 +18,6 @@ _ _ _
 `Webpack`           `EJS`                                           `Material UI`
                                                                     `Express.js`
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### <span class="comment level-3">\#</span>Professional Experience
 _ _ _
