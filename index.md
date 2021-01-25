@@ -2,28 +2,17 @@
 _ _ _
 
 01001001 00100000 01101100 01101111 01110110 01100101 00100000 01100011 01101111 01100110 01100110 01100101 01100101 00100000 01100001 01101110 01100100 00100000 01100011 01101111 01100100 01101001 01101110 01100111 00101110
+  
+Jokes, aside- one of my best thus far, if I may say so myself :)- I am a dark mode visionary, whose love of coffee comes second only to coding (more aptly, coffee is the Lorem to my coding’s Ipsum). I have been programming, in my spare time, for a few years; mainly solving trivial coding challenges and experimenting with different languages and libraries. My accrued experiences and a touch of inspiration led me down the path of learning about web-development, and I can gladly say I have never looked back.
+  
+Since then, my efforts have been focused on gaining as much exposure to the different technologies, areas, and general ecosystem that surround the field and its sub-fields. Though, admittedly inexperienced, I am eager to learn, apply, and expand on my current skillset, passionate about development, and hopeful for an opportunity to grow with a business.
 
 ### <span class="comment level-3">\#</span>Skills
 _ _ _
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
+**Front-End**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
