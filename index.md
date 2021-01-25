@@ -10,17 +10,15 @@ Since then, my efforts have been focused on gaining as much exposure to the diff
 ### <span class="comment level-3">\#</span>Skills
 _ _ _
 
-```json
-{
-  "Front-End":         "Back End":                "Source Control":         "Frameworks":          "UI/UX":  
-  [                    [                          [                         [                      [
-    `JavaScript`,        `REST / MongoDB`,          `Git / Github`,           `React / Redux`,       `Gimp`,
-    `CSS/SCSS`,          `Node.js / NPM / Yarn`,  ],                          `Semantic UI`,         `Inkscape`,
-    `HTML`,              `Bash`,                                              `Bootstrap`,         ],
-    `Webpack`,           `EJS`,                                               `Material UI`,        
-  ],                    ],                                                    `Express.js`,
-                                                                            ],
-}                                                                       
+```javascript
+const SKILLS = {
+  "Front-End": [`JavaScript`, `CSS/SCSS`, `HTML`, `Webpack`],
+  "Back End": [`REST / MongoDB`, `Node.js / NPM / Yarn`, `Bash`, `EJS`],
+  "Source Control": [`Git / GitHub`],
+  "Frameworks": [`React / Redux`, `Semantic UI`, `Bootstrap`, `Material UI`, `Express.js`],
+  "UI/UX": [`Gimp`, `Inkscape`],
+};
+export default SKILLS;
 ```
 
 ### <span class="comment level-3">\#</span>Professional Experience
