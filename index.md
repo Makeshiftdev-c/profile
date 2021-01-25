@@ -10,13 +10,16 @@ Since then, my efforts have been focused on gaining as much exposure to the diff
 ### <span class="comment level-3">\#</span>Skills
 _ _ _
 
-```javascript
-[Front-End]         [Back End]            [Source Control]          [Frameworks]          [UI/UX]  
-`JavaScript`        `REST / MongoDB`      `Git / Github`            `React / Redux`       `Gimp`
-`CSS/SCSS`          `Node.js / NPM / Yarn`                          `Semantic UI`         `Inkscape`
-`HTML`              `Bash`                                          `Bootstrap`           `Adobe XD` (???)
-`Webpack`           `EJS`                                           `Material UI`
-                                                                    `Express.js`
+```json
+{
+  "Front-End":         [Back End]            [Source Control]          [Frameworks]          [UI/UX]  
+  [
+    `JavaScript`,        `REST / MongoDB`      `Git / Github`            `React / Redux`       `Gimp`
+    `CSS/SCSS`,          `Node.js / NPM / Yarn`                          `Semantic UI`         `Inkscape`
+    `HTML`,              `Bash`                                          `Bootstrap`           `Adobe XD` (???)
+    `Webpack`,           `EJS`                                           `Material UI`
+   ]
+}                                                                       `Express.js`
 ```
 
 ### <span class="comment level-3">\#</span>Professional Experience
