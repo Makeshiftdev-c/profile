@@ -11,8 +11,12 @@ Since then, my efforts have been focused on gaining as much exposure to the diff
 _ _ _
 
 ```markdown
-**Front-End**
-
+[Front-End]         [Back End]            [Source Control]          [Frameworks]          [UI/UX]  
+`JavaScript`        `REST / MongoDB`      `Git / Github`            `React / Redux`       `Gimp`
+`CSS/SCSS`          `Node.js / NPM / Yarn`                          `Semantic UI`         `Inkscape`
+`HTML`              `Bash`                                          `Bootstrap`           `Adobe XD` (???)
+`Webpack`           `EJS`                                           `Material UI`
+                                                                    `Express.js`
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -20,9 +24,29 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### <span class="comment level-3">\#</span>Professional Experience
 _ _ _
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Makeshiftdev-c/profile-example/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Royal Mail Group / Mail Sorter**  
+<small>November 2020 - Current : Leeds, United Kingdom</small>  
+**Profile Security Services / Front of House**  
+<small>December 2016 – March 2020 : Leeds, United Kingdom</small>  
 
 ### <span class="comment level-3">\#</span>Personal Experience
 _ _ _
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**BlogBox / Social Media Web Application**  
+<small>November 2020 : Leeds, United Kingdom</small>  
+↳Implemented user comment and likes  
+↳Extended user feed and user posts pages to show post comment and like numbers  
+↳Working on API endpoints for React implemented client  
+**ComfyHome / Furniture Store Website**  
+<small>July 2020 : Leeds, United Kingdom</small>  
+↳Implemented basic client-side pagination  
+↳Implemented simulated routing  
+↳Added product modals for the display of further product information  
+  
+### <span class="comment level-3">\#</span>Education
+_ _ _
+  
+**Allerton Grange School** / A-levels Chemistry, Biology and Mathematics  
+<small>September 2013 - August 2015 : Leeds, United Kingdom</small>  
+**Allerton Grange School** / GCSEs English and Mathematics  
+<small>September 2013 - August 2014 : Leeds, United Kingdom</small>
