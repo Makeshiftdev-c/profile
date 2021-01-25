@@ -12,7 +12,7 @@ _ _ _
 
 ```json
 {
-  "Front-End":         "Back End":                "Source Control":         "Frameworks":          "UI/UX:  
+  "Front-End":         "Back End":                "Source Control":         "Frameworks":          "UI/UX":  
   [                    [                          [                         [                      [
     `JavaScript`,        `REST / MongoDB`,          `Git / Github`,           `React / Redux`,       `Gimp`,
     `CSS/SCSS`,          `Node.js / NPM / Yarn`,  ],                          `Semantic UI`,         `Inkscape`,
