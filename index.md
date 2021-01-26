@@ -1,4 +1,4 @@
-## <span class="comment level-2">\#</span>A Little (Bit) About Me ;)
+## <span class="comment level-2">\#</span>A Few (Bits) About Me ;)
 _ _ _
 
 01001001 00100111 01101101 00100000 01100001 00100000 01110011 01100101 01101100 01100110 00101101 01110000 01110010 01101111 01100011 01101100 01100001 01101001 01101101 01100101 01100100 00100000 01100111 01100101 01100101 01101011 00100000 01100001 01101110 01100100 00100000 01001001 00100000 01101100 01101001 01101011 01100101 00100000 01101101 01111001 00100000 01111001 01101111 01100111 01110101 01110010 01110100 01110011 00100000 01000111 01110010 01100101 01100101 01101011 00100000 00111010 00101001
@@ -11,14 +11,14 @@ Since then, my efforts have been focused on gaining as much exposure to the diff
 _ _ _
 
 ```javascript
-const SKILLS = {
+const CurrentSkillset = {
   "Front-End": [`JavaScript`, `CSS/SCSS`, `HTML`, `Webpack`],
   "Back End": [`REST / MongoDB`, `Node.js / NPM / Yarn`, `Bash`, `EJS`],
   "Source Control": [`Git / GitHub`],
   "Frameworks": [`React / Redux`, `Semantic UI`, `Bootstrap`, `Material UI`, `Express.js`],
   "UI/UX": [`Gimp`, `Inkscape`],
 };
-export default SKILLS;
+export default CurrentSkillset;
 ```
 
 ### <span class="comment level-3">\#</span>Professional Experience
